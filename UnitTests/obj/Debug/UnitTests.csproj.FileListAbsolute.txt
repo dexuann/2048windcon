@@ -1,0 +1,47 @@
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\TwentyFortyEight.exe
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\TwentyFortyEight.pdb
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\TwentyFortyEight.exe.config
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\n9629238\Downloads\TwentyFortyEight\TwentyFortyEight\UnitTests\obj\Debug\UnitTests.pdb
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\UnitTests.dll
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\UnitTests.pdb
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\TwentyFortyEight.exe
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\TwentyFortyEight.pdb
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\TwentyFortyEight.exe.config
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\uni work\PST_N9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\uni work\PST_N9629238\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+D:\uni work\PST_N9629238\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\uni work\PST_N9629238\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\uni work\PST_N9629238\UnitTests\obj\Debug\UnitTests.dll
+D:\uni work\PST_N9629238\UnitTests\obj\Debug\UnitTests.pdb
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\UnitTests.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\UnitTests.pdb
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\TwentyFortyEight.exe
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\TwentyFortyEight.pdb
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\TwentyFortyEight.exe.config
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\uni work\121\pst\PST2_n9629238\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\uni work\121\pst\PST2_n9629238\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+D:\uni work\121\pst\PST2_n9629238\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\uni work\121\pst\PST2_n9629238\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\uni work\121\pst\PST2_n9629238\UnitTests\obj\Debug\UnitTests.dll
+D:\uni work\121\pst\PST2_n9629238\UnitTests\obj\Debug\UnitTests.pdb
